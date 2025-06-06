@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p goodfit Goodness of fit information for any binary prediction Use goodfit With STATA 18
