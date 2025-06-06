@@ -1,7 +1,7 @@
-D 'goodfit': Goodness of fit information for any binary prediction Use goodfit With STATA 18
+D 'goodfit': Goodness of fit information for any binary prediction Use goodfit With STATA 19
 D
 F goodfit.ado
-F goodfit.bid
+F goodfit.bib
 F goodfit.md
 F goodfit.sthlp
 F goodfit_graph.ado
