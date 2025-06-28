@@ -1,7 +1,7 @@
 # goodfit
-Goodness of fit information for any binary prediction Use goodfit With STATA 18
+Goodness of fit information for any binary prediction Use goodfit With STATA 19
 
-Takes the predicted results from a binary outcome model and displays goodness of fit measures Use goodfit With STATA 18
+Takes the predicted results from a binary outcome model and displays goodness of fit measures Use goodfit With STATA 19
 
 Olah Data Semarang
 
